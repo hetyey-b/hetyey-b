@@ -1,4 +1,4 @@
-I am a motivated software developer with over 2 years of active work experience. My main area of expertise lies in frontend development, but I also have hands-on experience in API development and DevOps. I am currently seeking opportunities to expand my skill set by working with the latest technologies in the field within a fast-paced environment.
+I am a software developer, with experience mainly in front end development. I am currently studying cyber security in my free time.
 
 You can reach me by email at hetyey.botond@gmail.com
 
