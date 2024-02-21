@@ -1,4 +1,4 @@
-I am a software developer, with a degree in computer science and experience mainly in front end development. I am currently studying cyber security in my free time.
+I am a software developer, with a degree in computer science and experience mainly in front end development. I am currently studying cybersecurity in my free time.
 
 You can reach me by email at hetyey.botond@gmail.com
 
